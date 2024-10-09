@@ -1,0 +1,8 @@
+# ninja log v6
+10	848	7495933920627662	CMakeFiles/classwork.dir/main.cpp.obj	3b24899fe8cfaa50
+3373	3604	7494264227179063	classwork.exe	29a4cc7ceda7b55f
+67	921	7494261225378992	CMakeFiles/classwork.dir/utils/greet.cpp.obj	deedbf6d2d7322cc
+45	1250	7495949112690206	CMakeFiles/classwork.dir/utils/average.cpp.obj	1a2f53f62afda8ee
+67	1309	7495949112910080	CMakeFiles/classwork.dir/utils/getLowest.cpp.obj	d869ac68220e66f2
+77	231	7495949113005223	CMakeFiles/classwork.dir/utils/getAboveAverage.cpp.obj	927afbc6ef5bd4af
+56	1304	7495949112800867	CMakeFiles/classwork.dir/utils/getHighest.cpp.obj	89dc1b27f68b69fd
